@@ -1,0 +1,18 @@
+{
+  "name": "mapp-search",
+  "version": "1.0.0",
+  "description": "Mac App Store search",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && ava"
+  },
+  "author": "Pablo Varela <pablovarela182@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "standard": "^10.0.2"
+  },
+  "dependencies": {
+    "app-store-scraper": "^0.6.3"
+  }
+}
