@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.npmjs.com/package/mapp-search"><img src="https://img.shields.io/npm/dt/mapp-search.svg" /></a>
-  <p align="center">Search for Mac App Store ids given an App name</p>
+  <i>Looking for an ID on the Mac App Store? Use this</i>
 </p>
 
 ## Usage 
