@@ -1,7 +1,8 @@
 # mapp-search 🔎 🖥
 
 <p align="center">
-  Search for Mac App Store ids given an App name
+  <a href="https://www.npmjs.com/package/mapp-search"><img src="https://img.shields.io/npm/dt/mapp-search.svg" /></a>
+  <p align="center">Search for Mac App Store ids given an App name</p>
 </p>
 
 ## Usage 
