@@ -29,3 +29,8 @@ search('xcode')
 search('xcode', {number: 2}) # [ 497799835, 1083165894 ]
 search('xcode', {all: true}) # [ 497799835, 1083165894, ... ]
 ```
+
+# Author
+
+© 2017 Pablo Varela
+
