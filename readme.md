@@ -20,14 +20,14 @@ console.log(id) # 497799835
 const search = require('mapp-search')
 
 search('xcode')
-.then(console.log) # 497799835
+.then(console.log) // 497799835
 ```
 
 ## Custom results
 
 ```javascript
-search('xcode', {number: 2}) # [ 497799835, 1083165894 ]
-search('xcode', {all: true}) # [ 497799835, 1083165894, ... ]
+search('xcode', {number: 2}) // [ 497799835, 1083165894 ]
+search('xcode', {all: true}) // [ 497799835, 1083165894, ... ]
 ```
 
 # Author
