@@ -12,7 +12,7 @@
 const search = require('mapp-search')
 
 const id = await search('xcode')
-console.log(id) # 497799835
+console.log(id) // 497799835
 ```
 
 #### With `then`
